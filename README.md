@@ -81,7 +81,7 @@ Follow these steps to download and set up the `todo-laravel-app` on your local s
 5. Open the `htdocs` folder inside the XAMPP directory.
 6. Paste the `todo-laravel-app` directory inside `htdocs`.
 
-### Confirm that `todo-laravel-app` directory is directly under htdocs.
+### Step 4: Confirm that `todo-laravel-app` directory is directly under htdocs.
 
 # Todo Laravel App Project Setup Instructions
 This is a Laravel-based e-commerce website.
